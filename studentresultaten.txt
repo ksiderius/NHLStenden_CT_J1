@@ -1,0 +1,11 @@
+Naam,resultaat
+Naam1,8
+Naam2,7
+Naam3,4
+Naam4,6
+Naam5,999999
+Naam6,4
+Naam7,5
+Naam8,9
+Naam9,6
+Naam10,4
